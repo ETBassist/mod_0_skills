@@ -1,0 +1,9 @@
+food = "Burrito"
+is_delicious = true
+food = "Pizza"
+num2 = 12
+num7 = 24
+quotient = num7 / num2
+songs = ["Disco Ulysses", "Them Changes", "F It Up", "Dean Town"]
+songs.shift
+food.length
